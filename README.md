@@ -3,7 +3,7 @@
 - ⚡ Fun fact: expert in 30 hr sleepless project works and 20hr continous sleep
 
 <!--
-**mohd-raheez/mohammed raheez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohd-raheez/mohdraheez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hello Folks, I'm <strong>mohd-raheez( ⌐■_■) </strong></h2>
+<h2 align="left">Hello Folks, I'm <strong>mohammed raheez( ⌐■_■) </strong></h2>
  
  <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
