@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h2 align="center"><strong></strong></h2>
 <p align="center">
   <a href="https://github.com/mohdraheez?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohd-raheez?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/mohdraheez?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   	  
 </p>
