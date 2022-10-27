@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 	 
 <p align="left"> Visitor count
 	<br>
-  <img src="https://profile-counter.glitch.me/mohd-raheez/count.svg" />
+  <img src="https://profile-counter.glitch.me/mohdraheez/count.svg" />
 </p>
 
 <h2 align="center"><strong></strong></h2>
 <p align="center">
-  <a href="https://github.com/mohd-raheez?tab=followers">
+  <a href="https://github.com/mohdraheez?tab=followers">
     <img src="https://img.shields.io/github/followers/mohd-raheez?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   	  
