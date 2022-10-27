@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Fun fact: expert in 30 hr sleepless project works and 20hr continous sleep
-[![@mohdraheez's Holopin board](https://holopin.me/mohdraheez)](https://holopin.io/@mohdraheez)
+
 
 <!--
 **mohdraheez/mohdraheez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,5 +49,6 @@ Here are some ideas to get you started:
 <img align="center" alt="mohdraheez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohdraheez&show_icons=true&hide_border=true" />
 
 
-
+<!--  -->
+[![@mohdraheez's Holopin board](https://holopin.me/mohdraheez)](https://holopin.io/@mohdraheez)
  
