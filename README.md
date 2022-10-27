@@ -3,7 +3,7 @@
 - ⚡ Fun fact: expert in 30 hr sleepless project works and 20hr continous sleep
 
 <!--
-**mohd-raheez/mohdraheez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohdraheez/mohdraheez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
